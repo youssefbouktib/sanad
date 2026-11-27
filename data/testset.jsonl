@@ -1,0 +1,22 @@
+{"id": "en-1", "type": "same-lang", "lang": "en", "q": "When do capstone project submissions close?", "gold_doc": "student_handbook_en.md", "gold_contains": "15 November", "expect": "15"}
+{"id": "en-2", "type": "same-lang", "lang": "en", "q": "Who should I send an extension request to?", "gold_doc": "student_handbook_en.md", "gold_contains": "course coordinator", "expect": "coordinator"}
+{"id": "en-3", "type": "same-lang", "lang": "en", "q": "What happens if I miss three labs?", "gold_doc": "student_handbook_en.md", "gold_contains": "program director", "expect": "director"}
+{"id": "en-4", "type": "same-lang", "lang": "en", "q": "How much is the final exam worth in the final grade?", "gold_doc": "student_handbook_en.md", "gold_contains": "35%", "expect": "35"}
+{"id": "en-5", "type": "same-lang", "lang": "en", "q": "Can I use ChatGPT for my project?", "gold_doc": "student_handbook_en.md", "gold_contains": "AI assistants", "expect": "declare"}
+{"id": "fr-1", "type": "same-lang", "lang": "fr", "q": "Quels sont les horaires de la bibliothèque le samedi ?", "gold_doc": "reglement_interieur_fr.md", "gold_contains": "9h00 à 13h00", "expect": "13"}
+{"id": "fr-2", "type": "same-lang", "lang": "fr", "q": "Combien de livres puis-je emprunter ?", "gold_doc": "reglement_interieur_fr.md", "gold_contains": "4 livres", "expect": "4"}
+{"id": "fr-3", "type": "same-lang", "lang": "fr", "q": "Que se passe-t-il si je triche à un examen ?", "gold_doc": "reglement_interieur_fr.md", "gold_contains": "zéro", "expect": "z"}
+{"id": "fr-4", "type": "same-lang", "lang": "fr", "q": "Quelle est la durée du stage de fin d'études ?", "gold_doc": "reglement_interieur_fr.md", "gold_contains": "4 et 6 mois", "expect": "6"}
+{"id": "ar-1", "type": "same-lang", "lang": "ar", "q": "ما هو آخر أجل لطلب المنحة الدراسية؟", "gold_doc": "student_services_ar.md", "gold_contains": "30 أكتوبر", "expect": "30"}
+{"id": "ar-2", "type": "same-lang", "lang": "ar", "q": "كم ثمن الغرفة في السكن الجامعي؟", "gold_doc": "student_services_ar.md", "gold_contains": "800", "expect": "800"}
+{"id": "ar-3", "type": "same-lang", "lang": "ar", "q": "متى يفتح المركز الصحي؟", "gold_doc": "student_services_ar.md", "gold_contains": "مركز صحي", "expect": "9"}
+{"id": "x-1", "type": "cross-lang", "lang": "fr", "q": "Quelle est la date limite pour rendre le projet ?", "gold_doc": "student_handbook_en.md", "gold_contains": "15 November", "expect": "15"}
+{"id": "x-2", "type": "cross-lang", "lang": "fr", "q": "Combien coûte une chambre en résidence universitaire ?", "gold_doc": "student_services_ar.md", "gold_contains": "800", "expect": "800"}
+{"id": "x-3", "type": "cross-lang", "lang": "en", "q": "Are smartwatches allowed in the exam room?", "gold_doc": "reglement_interieur_fr.md", "gold_contains": "montres connectées", "expect": "o"}
+{"id": "x-4", "type": "cross-lang", "lang": "en", "q": "Is there a free bus from the train station?", "gold_doc": "student_services_ar.md", "gold_contains": "حافلة", "expect": "30"}
+{"id": "x-5", "type": "cross-lang", "lang": "ar", "q": "ما هي نسبة الامتحان النهائي في المعدل؟", "gold_doc": "student_handbook_en.md", "gold_contains": "35%", "expect": "35"}
+{"id": "x-6", "type": "cross-lang", "lang": "ar", "q": "متى تفتح المكتبة يوم السبت؟", "gold_doc": "reglement_interieur_fr.md", "gold_contains": "9h00 à 13h00", "expect": "9"}
+{"id": "u-1", "type": "unanswerable", "lang": "en", "q": "What is the penalty for submitting the project late?", "gold_doc": null, "gold_contains": null, "expect": null}
+{"id": "u-2", "type": "unanswerable", "lang": "fr", "q": "Quel est le prix du menu à la cafétéria ?", "gold_doc": null, "gold_contains": null, "expect": null}
+{"id": "u-3", "type": "unanswerable", "lang": "en", "q": "Who won the 2022 football World Cup?", "gold_doc": null, "gold_contains": null, "expect": null}
+{"id": "u-4", "type": "unanswerable", "lang": "ar", "q": "هل يوجد مسبح في الحرم الجامعي؟", "gold_doc": null, "gold_contains": null, "expect": null}

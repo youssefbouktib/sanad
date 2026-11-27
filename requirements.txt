@@ -1,0 +1,7 @@
+numpy>=1.26
+sentence-transformers>=3.0
+openai>=1.40
+pypdf>=4.0
+streamlit>=1.36
+matplotlib>=3.8
+pytest>=8.0
